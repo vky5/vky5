@@ -17,28 +17,28 @@ Currently working on: **Blacktree** (deploy infra) and **EdgeGrid** (distributed
   → [github.com/vky5/dockscope](https://github.com/vky5/dockscope)
 
 ---
-
 ## 📈 GitHub Stats
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vky5&theme=github_dark" alt="OSS Contributions" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vky5&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vky5&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vky5&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vky5&layout=compact&theme=github_dark" alt="Top Languages" />
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vky5&theme=radical" alt="OSS Contributions" />
     </td>
   </tr>
 </table>
+---
 
 ## 📫 Contact
 
 - Twitter: [@vky5](https://twitter.com/vky5)
 - Email: your.email@example.com  
 - LinkedIn: [linkedin.com/in/vaiku](#)
----
+
