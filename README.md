@@ -28,9 +28,19 @@ Currently working on: **Blacktree** (deploy infra) and **EdgeGrid** (distributed
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vky5&show_icons=true&theme=tokyonight)](https://github.com/vky5)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vky5&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vky5&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vky5&layout=compact&theme=tokyonight)](https://github.com/vky5)
+<!-- OSS Contributions Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vky5&theme=radical" alt="OSS Contributions" />
 
 ---
 
