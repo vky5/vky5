@@ -8,13 +8,13 @@ Currently working on: **Blacktree** (deploy infra) and **EdgeGrid** (distributed
 ## 🛠️ Projects
 
 - **Blacktree** – A self-serve API marketplace. Deploy GitHub repos with automated Docker pipelines.  
-  → [github.com/vky5/blacktree](https://github.com/vky5/blacktree)
+  → [github.com/vky5/blacktree](https://github.com/vky5/Blacktree)
+
+- **CloudSketch** – Visual cloud architecture tool. Draw infra diagrams → generate Terraform code instantly.  
+  → [github.com/vky5/cloudsketch](https://github.com/vky5/CloudSketch)
 
 - **EdgeGrid** *(WIP)* – Turning idle phones into edge compute nodes.  
   → Coming soon
-
-- **Dockscope** – Auto-redeploy containers on GitHub push events.  
-  → [github.com/vky5/dockscope](https://github.com/vky5/dockscope)
 
 ---
 
@@ -39,8 +39,8 @@ Currently working on: **Blacktree** (deploy infra) and **EdgeGrid** (distributed
 ---
 
 ## 📫 Contact
-
-- Twitter: [@vky5](https://twitter.com/vky5)
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/vaiku](#)
+- Portfolio: [vky5](https://vky5.vercel.app/)
+- Twitter: [@vky5_](https://twitter.com/vky5_)
+- Email: vky05@proton.me
+- LinkedIn: [linkedin.com/in/vky5](https://www.linkedin.com/in/vky5/)
 
