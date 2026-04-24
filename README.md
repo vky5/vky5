@@ -1,37 +1,29 @@
 # Vaibhav Yadav
 
-Systems engineer focused on distributed coordination, infrastructure orchestration, and high-performance async runtimes. I build tools that manage complexity, handle failures, and optimize resource utilization across the stack.
+Systems engineer building distributed systems, infrastructure orchestration tools, and failure-tolerant backends.
 
 ---
 
 ### Core Systems Projects
 
-#### [Blacktree](https://github.com/vky5/Blacktree) — Infrastructure Orchestration & Deployment Engine
-An orchestration platform designed to automate the lifecycle of containerized workloads directly from source.
-- **System Design:** Built a pipeline that abstracts container orchestration, resource isolation, and dynamic ingress.
-- **Technical Focus:** Automated Docker lifecycles, repo-to-runtime synchronization, and scalable infrastructure automation.
+#### [Blacktree](https://github.com/vky5/Blacktree)
+Infrastructure for automated container orchestration and deployment directly from GitHub.
 
-#### [FaultLab](https://github.com/vky5/FaultLab) — Distributed Systems Experimentation & Failure Testing
-A framework for stressing distributed systems to uncover edge cases in consensus and coordination protocols.
-- **System Design:** Implements deterministic failure injection to verify safety properties under adverse conditions.
-- **Technical Focus:** Network partition simulation, fault tolerance verification, and distributed state consistency testing.
+#### [FaultLab](https://github.com/vky5/FaultLab)
+A framework for testing distributed systems by injecting deterministic network and node failures.
 
-#### [FluxDB](https://github.com/vky5/FluxDB) — Distributed Reactive Key-Value Database
-A low-latency, event-driven storage system built for reactive state synchronization across distributed nodes.
-- **System Design:** Architected around a non-blocking I/O core with eventual consistency models.
-- **Technical Focus:** Async replication, conflict resolution, and high-concurrency storage engines.
+#### [FluxDB](https://github.com/vky5/FluxDB)
+A distributed key-value database optimized for low-latency state synchronization.
 
 ---
 
 ### Experimental / WIP
 
-#### [EdgeGrid](https://github.com/vky5/EdgeGrid) — Visionary Pervasive Edge Compute
-Turning heterogeneous, underutilized hardware into a unified compute fabric.
-- **Focus:** Decentralized task scheduling, peer-to-peer coordination, and fault-tolerant execution at the edge.
+#### [EdgeGrid](https://github.com/vky5/EdgeGrid)
+A peer-to-peer compute fabric that utilizes idle device resources at the edge.
 
-#### [CloudSketch](https://github.com/vky5/CloudSketch) — Infrastructure-as-Code Synthesis
-Mapping visual topology to declarative infrastructure.
-- **Focus:** Automated Terraform generation and cloud architecture visualization.
+#### [CloudSketch](https://github.com/vky5/CloudSketch)
+An infrastructure-as-code generator that converts visual diagrams into Terraform.
 
 ---
 
