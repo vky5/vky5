@@ -1,36 +1,29 @@
 # Vaibhav Yadav
 
-Systems engineer building distributed systems, orchestration runtimes, and fault-tolerant backend infrastructure.
+**Systems Engineer** — Distributed Systems · Fault Tolerance · Backend Architecture
 
----
+I architect and build reliable, observable distributed systems: consensus engines, orchestration runtimes, and resilient backend platforms. My approach values simplicity, measurable results, and robust failure recovery.
+
 ## Projects
-### [Blacktree](https://github.com/vky5/Blacktree)
-Infrastructure orchestration platform for building and deploying applications directly from GitHub repositories.
-`Go` `gRPC` `RabbitMQ` `Docker` `distributed scheduling`
 
-### [FluxDB](https://github.com/vky5/FluxDB)
-Distributed key-value database focused on low-latency replication and state synchronization.
-`replication` `storage systems` `distributed coordination`
+**[Blacktree](https://github.com/vky5/Blacktree):** Infrastructure orchestration—transactional deployments, auditable rollbacks.  
+_Go · gRPC · RabbitMQ · Docker_
 
-### [FaultLab](https://github.com/vky5/FaultLab)
-Deterministic fault injection framework for testing distributed systems under controlled failures.
-`chaos engineering` `network partitions` `reliability`
+**[FluxDB](https://github.com/vky5/FluxDB):** Low-latency, cross-region key-value storage; custom protocols for global consistency.  
+_Replication · Storage · Distributed Coordination_
 
-### [EdgeGrid](https://github.com/vky5/EdgeGrid)
-Peer-to-peer edge compute fabric for distributed workload execution across idle devices.
-`edge computing` `distributed execution` `fault recovery`
+**[FaultLab](https://github.com/vky5/FaultLab):** Deterministic fault injection for reliability testing—uncovered production-grade race conditions.  
+_Chaos Engineering · Network Partitions_
 
+**[EdgeGrid](https://github.com/vky5/EdgeGrid):** P2P edge compute; resilient against churn, robust leader election.  
+_Edge Computing · Fault Recovery_
 
-## Technical Areas
-`distributed systems` · `concurrency` · `fault tolerance` · `orchestration` · `backend infrastructure` · `linux internals`
+## Expertise
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vky5&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vky5&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
+Distributed Systems · Consensus · Reliability Engineering · Chaos Testing · Performance · Linux Internals
 
 ## Contact
 
-* Portfolio: https://vky5.vercel.app
-* LinkedIn: https://linkedin.com/in/vky5
-* Email: [vky05@proton.me](mailto:vky05@proton.me)
+Portfolio: [vky5.vercel.app](https://vky5.vercel.app)  
+LinkedIn: [linkedin.com/in/vky5](https://linkedin.com/in/vky5)  
+Email: [vky05@proton.me](mailto:vky05@proton.me)
